@@ -11,8 +11,7 @@
     --white: #FFF;
     --red-500: #F75A68;
 }
-
-:focus{
+textarea:focus{
     outline: transparent;
     box-shadow: 0 0 0 2px var(--green-500) ;
 }
